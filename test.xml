@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>HP1-Audio : Free Download, Borrow, and Streaming : Internet Archive</title>
+    <link>https://archive.org/details/HP1-Audio</link>
+    <description>Feed created by FiveFilters.org</description>
+
+    <item>
+      <title>HP1 - CH01.mp3</title>
+      <link>https://archive.org/download/HP1-Audio/HP1%20-%20CH01.mp3</link>
+      <guid isPermaLink="true">https://archive.org/download/HP1-Audio/HP1%20-%20CH01.mp3</guid>
+      <description>Chapter 1</description>
+      <enclosure url="https://archive.org/download/HP1-Audio/HP1%20-%20CH01.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>HP1 - CH02.mp3</title>
+      <link>https://archive.org/download/HP1-Audio/HP1%20-%20CH02.mp3</link>
+      <guid isPermaLink="true">https://archive.org/download/HP1-Audio/HP1%20-%20CH02.mp3</guid>
+      <description>Chapter 2</description>
+      <enclosure url="https://archive.org/download/HP1-Audio/HP1%20-%20CH02.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>HP1 - CH03.mp3</title>
+      <link>https://archive.org/download/HP1-Audio/HP1%20-%20CH03.mp3</link>
+      <guid isPermaLink="true">https://archive.org/download/HP1-Audio/HP1%20-%20CH03.mp3</guid>
+      <description>Chapter 3</description>
+      <enclosure url="https://archive.org/download/HP1-Audio/HP1%20-%20CH03.mp3" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
